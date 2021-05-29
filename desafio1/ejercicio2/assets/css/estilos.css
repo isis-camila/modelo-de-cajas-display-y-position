@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+.row{
+    width:25%;
+    height: auto;
+    display: inline-flex;
+       
+}
+
+.col{
+    text-align: justify;
+    margin-left: 4rem;
+      
+}
+
+.col img{
+    font-size: 30px;
+}

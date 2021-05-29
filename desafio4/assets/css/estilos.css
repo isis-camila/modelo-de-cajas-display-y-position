@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+    
+.main {
+    background-color: #B0CCAB;
+    padding: 100px;
+    width: 50%;
+    height: auto;
+    margin-right: 40px;
+    position: fixed;
+    left: 90px;
+    top: 50px;
+}
+
+.main__paragraph{
+    left: 40px;
+    
+    margin-left: 60px;
+}

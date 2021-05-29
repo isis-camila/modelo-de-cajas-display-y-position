@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    position: fixed;
+    background-color: darkgreen;
+    width: 100%;
+    height: auto;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 0;
+    text-align: justify;
+  
+}
+
+h3{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+.container{
+    width: 100%;
+    box-sizing: border-box;
+    text-align: justify;
+    
+    
+}
+
+.row{
+    width:25%;
+    height: auto;
+    display: inline-flex;
+    
+       
+}
+
+.col{
+    text-align: justify;
+    margin-left: 4rem;
+      
+}
+
+.col img{
+    font-size: 30px;
+}
+
+.noticia-parrafo{
+    margin-top: 170px;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    
+    
+}

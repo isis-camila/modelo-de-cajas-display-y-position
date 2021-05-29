@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+}
+
+.square__red{
+    background-color: rgba(238, 74, 9, 0.5);
+    z-index: 1;
+}
+
+.square__green{
+    background-color: rgb(0,255, 0, .5);
+    left: 25px;
+    position: absolute;
+    top: 25px;
+    z-index: -2;
+}
+
+.square__blue{
+    background-color: rgba(50, 14, 214, 0.5);
+    left: 50px;
+    position: absolute;
+    top: 50px;
+    z-index: -3;
+}
+
+
+

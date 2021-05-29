@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    padding: 0;
+}
+
+.imagen__producto{
+   z-index: -1;
+   position: absolute;
+}
+
+.imagen__oferta{
+    position: absolute;
+    z-index: 1;
+    bottom: 9rem;
+}
